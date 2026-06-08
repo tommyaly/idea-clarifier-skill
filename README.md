@@ -1,5 +1,5 @@
 ---
-title: 拒绝焦虑，快速评估你的想法的可行性
+title: Idea Clarifier Skill：快速评估你的想法的可行性
 type: skill 说明
 skill: idea-clarifier
 用途: 社区论坛推广文案
@@ -7,7 +7,7 @@ created: 2026-06-09
 tags: [skill, 介绍, 推广文案]
 ---
 
-# 🧘 拒绝焦虑，快速评估你的想法的可行性
+# Idea Clarifier Skill：快速评估你的想法的可行性
 
 最近大家都在 Vibe Coding，灵感来得特别快——「我要不要做个 XX？」的念头，一天能冒出三个。脑子里想法越堆越多，人也越来越焦虑：到底哪个值得做？哪个该趁早扔掉？
 
